@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "brands": "Brands",
+    "services": "Services",
+    "events": "Events",
+    "gallery": "Gallery",
+    "plan": "Floor Plan",
+    "location": "Find Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "A Place Like No Other",
+    "subtitle": "Everything is here, at Boumiza Square",
+    "cta": "Discover Our Brands",
+    "welcome": "Welcome, Every Day",
+    "hours": "Open 07:30 - 23:00",
+    "scroll": "Scroll"
+  },
+  "home": {
+    "viewAll": "View all brands",
+    "viewServices": "All our services",
+    "statsTitle": "Boumiza by the Numbers",
+    "statBrands": "Brands",
+    "statOpen": "Open 7 days/week",
+    "statParking": "Free Parking",
+    "statRating": "on Google",
+    "statHours": "Opening Hours",
+    "promosTitle": "Exclusive Offers",
+    "promosSubtitle": "Discover the best deals from your favorite brands",
+    "reviewsTitle": "What Our Visitors Say",
+    "reviewsSubtitle": "Reviews from our Google Maps customers"
+  },
+  "brands": {
+    "title": "Our Premium Brands"
+  },
+  "enseignes": {
+    "subtitle": "Discover all the brands and restaurants that make Boumiza Square a unique destination.",
+    "all": "All",
+    "openNow": "Open now",
+    "monThu": "Mon–Thu",
+    "friSun": "Fri–Sun",
+    "everyday": "Every day"
+  },
+  "services": {
+    "title": "Services & Comfort",
+    "pageSubtitle": "Everything is designed for your comfort and well-being.",
+    "wifi": "Free Wi-Fi",
+    "brands": "Wide Variety of Brands",
+    "family": "Family-Friendly Space",
+    "chairs": "Baby High Chairs",
+    "rest": "Rest Area",
+    "smoking": "Smoking Area",
+    "charging": "Phone Charging",
+    "card": "Card Payment Accepted",
+    "wheelchair": "Wheelchair Accessible"
+  },
+  "contact": {
+    "title": "Find Us",
+    "subtitle": "A strategic location, easy to access, designed for your daily life.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours",
+    "formTitle": "Send us a message",
+    "formName": "Full name",
+    "formEmail": "Email address",
+    "formSubject": "Subject",
+    "formMessage": "Your message",
+    "formSend": "Send"
+  },
+  "footer": {
+    "copy": "© 2026 Boumiza Square — All rights reserved"
+  },
+  "events": {
+    "title": "Our Events",
+    "subtitle": "Stay informed about the latest news",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "items": {
+      "summer_fest": { "title": "Summer Festival", "desc": "Join us for 3 days of music, food, and exclusive promotions." },
+      "gastro_week": { "title": "Gastronomy Week", "desc": "Discover new exclusive menus at Okaya and La Leyenda with 20% off." },
+      "vr_tournament": { "title": "VR E-Sport Tournament", "desc": "Exclusive PS5 Tournament at Underground Space. Free entry." }
+    }
+  },
+  "gallery": {
+    "tag": "Discover",
+    "title": "Our Gallery",
+    "subtitle": "Immerse yourself in the world of Boumiza Square",
+    "all": "All"
+  }
+}
