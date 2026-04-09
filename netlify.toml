@@ -1,0 +1,13 @@
+[build]
+  # The directory that contains the built static files
+  publish = "dist"
+  
+  # The command to run to build your project
+  command = "npm run build"
+
+# Redirects are needed for Single Page Applications (SPAs) 
+# so that all routes serve index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
