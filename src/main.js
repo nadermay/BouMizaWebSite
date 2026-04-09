@@ -64,7 +64,7 @@ function initSpotlightCards() {
 // --- i18n ---
 async function loadTranslations(lang) {
   if (translations[lang]) return translations[lang];
-  const response = await fetch(`/src/i18n/${lang}.json`);
+  const response = await fetch(`/i18n/${lang}.json`);
   translations[lang] = await response.json();
   return translations[lang];
 }
